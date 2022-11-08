@@ -12,6 +12,8 @@
 
 ![Snake animation](https://github.com/maxhumberto/maxhumberto/blob/output/github-contribution-grid-snake.svg) 
 
+![](https://github.com/maxhumberto/snk/raw/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maxhumberto&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   
