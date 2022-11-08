@@ -73,10 +73,11 @@ Visitors:
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:maxhumberto"></a>
  </p>
  
- <div align="center">
+<div align="center">
 <a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
- <!-- Guestbook -->
+
+<!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
 | <a href="https://github.com/TauchmanD"><img width="24" src="https://avatars.githubusercontent.com/u/57211383?s=24&u=3f6746774377decb811a69ec6b1086f6a19f2304&v=4" alt="TauchmanD" /> TauchmanD</a> |11/3/2022, 2:26:04 PM|Interesting|
