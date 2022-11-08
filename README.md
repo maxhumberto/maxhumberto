@@ -10,7 +10,7 @@
 ---
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=maxhumberto&bg_color=0d1117&color=B0E0E6&line=87CEEB&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/maxhumberto/maxhumberto/blob/output/github-contribution-grid-snake.svg) 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maxhumberto&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
