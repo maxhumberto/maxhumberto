@@ -74,7 +74,7 @@ Visitors:
  </p>
  
 <div align="center">
-<a href="https://github.com/maxhumberto/maxhumberto/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<a href="https://github.com/maxhumberto/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
 <!-- Guestbook -->
