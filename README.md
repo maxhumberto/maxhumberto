@@ -32,6 +32,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
+ 
  ### - What i do
 
 
@@ -73,14 +74,3 @@ Visitors:
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:maxhumberto"></a>
  </p>
  
-<div align="center">
-<a href="https://github.com/maxhumberto/maxhumberto/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-
-<!-- /Guestbook -->
-
-<!-- Footer -->
