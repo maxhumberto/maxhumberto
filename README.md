@@ -10,8 +10,6 @@
 ---
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=maxhumberto&bg_color=0d1117&color=B0E0E6&line=87CEEB&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Snake animation](https://github.com/maxhumberto/maxhumberto/blob/output/github-contribution-grid-snake.svg) 
-
 ![](https://github.com/maxhumberto/snk/raw/output/github-contribution-grid-snake.svg)
 
 <p align="center">
@@ -23,12 +21,6 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
-⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 84.95 % as on ⏰ 7-Nov-2022
-
-
-
-
 
 ---
 
