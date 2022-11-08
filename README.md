@@ -24,12 +24,7 @@
 
 ⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 84.95 % as on ⏰ 7-Nov-2022
 
----
-<h3>
-Visitors:
-</h3>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:maxhumberto"></a>
- </p>
+
 
 
 
@@ -67,22 +62,7 @@ Visitors:
  
 </div>
 
-<div>
-<p>
 
-<div align="center">
-<a href="https://github.com/maxhumberto/maxhumberto/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-<!-- /Guestbook -->
-
-<!-- Footer -->
-
-</p>
-</div>
 
 <div align="center">
 
@@ -92,4 +72,9 @@ Visitors:
 
 </div>
 
-
+---
+<h3>
+Visitors:
+</h3>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:maxhumberto"></a>
+ </p>
