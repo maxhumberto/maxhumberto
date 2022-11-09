@@ -53,7 +53,7 @@
   <a href="https://instagram.com/1bertosp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:maxhumberto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/humberto-da-silva-lucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.facebook.com/beto.1humberto"/target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/beto.1humberto"/target="blank"><img src="https://img.shields.io/badge/-FaceBook-003791?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
  
   
  
