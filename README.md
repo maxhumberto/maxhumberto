@@ -4,15 +4,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Humberto+Silva+Lucas.;I'm+from+Brazil.+;I'm+undergraduate+student+of+Computer+Science.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maxhumberto&show_icons=true&count_private=true&hide_border=true&title_color=87CEEB&icon_color=D8BFD8&text_color=00FF00&bg_color=0d1117" alt="Humberto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhumberto&layout=compact&hide_border=true&title_color=87CEEB&text_color=00FA9A&bg_color=0d1117" />
-</div>
 
-  <img width="41%" height="195px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=maxhumberto&theme=blue-green/>
+![maxhumberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxhumberto&show_icons=true&theme=blue-green ) <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhumberto&layout=compact&hide_border=true&langs_count=22&title_color=87CEEB&text_color=00FA9A&bg_color=0d1117" />
+
+
+
+
 
 ---
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=maxhumberto&bg_color=0d1117&color=B0E0E6&line=87CEEB&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maxhumberto&bg_color=0d1117&color=B0E0E6&line=87CEEB&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ![Snake animation](https://github.com/maxhumberto/maxhumberto/blob/output/github-contribution-grid-snake.svg)
 
