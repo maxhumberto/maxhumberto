@@ -77,11 +77,13 @@
 -![fast-typing](https://user-images.githubusercontent.com/89258525/200733040-bb02a4f2-b1ea-476c-a844-751e96cac65c.gif)
 --
 
-<h3>
-Visitors:
-</h3>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:maxhumberto"></a>
- </p>
+<h1>
+Visitors: <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/maxhumberto/count.svg" /></p>
+</h1>
+
+
+
+
 
 
 
